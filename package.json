@@ -2,9 +2,7 @@
   "dependencies": {
     "react-redux": "^9.1.2"
   }
-  {
   "scripts": {
     "build": "react-scripts build"
   }
-}
 }
