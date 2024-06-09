@@ -2,4 +2,5 @@
   "dependencies": {
     "react-redux": "^9.1.2"
   }
+  "build": "your build command here"
 }
